@@ -1,0 +1,47 @@
+h1 {
+    color: orange;
+    background-color: aqua;
+    border-radius: 120px;
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid greenyellow;
+}
+
+div {
+    padding: 1%;
+    color: black;
+    background-color: 009900;
+    width: 30%;
+    border: solid black;
+}
+
+.rightdiv {
+    float: right;
+}
+
+.leftdiv {
+    float: left;
+    width: 480px;
+}
+
+img {
+    border: 2px solid;
+    padding: 2px;
+    box-shadow: 0px 1px 5px 5px rgb(67, 69, 73);
+   ;
+}
+p{
+    background-color: rgb(203, 164, 221);
+    
+}
+h2 {
+    color: rgb(45, 194, 107);
+    background-color: aqua;
+    
+    font-size: 15px;
+    text-align: center;
+    border: 5px solid rgb(29, 32, 24);
+}
+body{
+    background: beige;
+}

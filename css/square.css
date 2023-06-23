@@ -1,0 +1,35 @@
+.rectangle{
+    height: 100px;
+    margin-bottom: 10px;
+   
+    /* width: 200px; */
+}
+.oreange{
+    background-color: orange;
+    width: 25%;
+    
+}
+.white{
+    background-color: rgb(250, 248, 248);
+    text-align: center;
+    width: 50%;
+    
+}
+div{
+    display: inline-block;
+}
+.green{
+    background-color: green;
+    width: 75%;
+   
+}
+.black{
+    background-color: black;
+    width: 100%;
+}
+body{
+    background-image:linear-gradient(rgb(214, 214, 250),rgb(190, 170, 174)) ,url(../images/naruto.jpeg);
+    
+}
+    
+    
